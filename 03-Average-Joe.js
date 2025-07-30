@@ -1,3 +1,4 @@
+// Average Joe
 const weekDaysCups = 10;
 const weekendCups = 4;
 function avarageCupsinDay() {
